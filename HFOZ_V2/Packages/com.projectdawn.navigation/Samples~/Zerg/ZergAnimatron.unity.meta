@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a70fea6fac3c1f34e8ea4dfcedba42a4
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.4.4
+  assetPath: Packages/com.projectdawn.navigation/Samples~/Zerg/ZergAnimatron.unity
+  uploadId: 820716

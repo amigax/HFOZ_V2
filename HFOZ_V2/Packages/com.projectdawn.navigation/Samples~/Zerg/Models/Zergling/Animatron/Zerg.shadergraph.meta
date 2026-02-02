@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: fb53a1c628e60b04aa6532ebf243fa0c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.4.4
+  assetPath: Packages/com.projectdawn.navigation/Samples~/Zerg/Models/Zergling/Animatron/Zerg.shadergraph
+  uploadId: 820716

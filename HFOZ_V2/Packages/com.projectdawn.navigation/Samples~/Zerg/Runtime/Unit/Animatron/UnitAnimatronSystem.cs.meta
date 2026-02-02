@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7b281840a86cc7947b4b6d0d59a24cc2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.4.4
+  assetPath: Packages/com.projectdawn.navigation/Samples~/Zerg/Runtime/Unit/Animatron/UnitAnimatronSystem.cs
+  uploadId: 820716

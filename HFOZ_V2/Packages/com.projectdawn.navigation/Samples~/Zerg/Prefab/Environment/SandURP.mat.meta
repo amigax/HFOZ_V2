@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 13fc409d72c6a3648ab7b44e9c5b18c9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.4.4
+  assetPath: Packages/com.projectdawn.navigation/Samples~/Zerg/Prefab/Environment/SandURP.mat
+  uploadId: 820716

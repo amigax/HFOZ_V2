@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d6fbafd4891f00443b6216ceb5e730e2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298480
+  packageName: Rukhanka Animation System 2
+  packageVersion: 2.6.0
+  assetPath: Packages/com.rukhanka.animation/Samples~/Samples/Scenes/25. Character
+    Controller/Scripts/UnityCharacterController/Standard Characters/Common/Scripts/FixedTickSystem.cs
+  uploadId: 830538

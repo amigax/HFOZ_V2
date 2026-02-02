@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 796c87c0bd01263499d7a13066200e8b
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.4.4
+  assetPath: Packages/com.projectdawn.navigation/Samples~/Scenarios/Unity Physics
+    Locomotion.unity
+  uploadId: 820716

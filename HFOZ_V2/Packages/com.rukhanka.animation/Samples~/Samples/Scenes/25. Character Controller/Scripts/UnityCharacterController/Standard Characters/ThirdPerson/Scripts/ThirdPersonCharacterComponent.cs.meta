@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d8471dfde63584745b2234708055b211
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298480
+  packageName: Rukhanka Animation System 2
+  packageVersion: 2.6.0
+  assetPath: Packages/com.rukhanka.animation/Samples~/Samples/Scenes/25. Character
+    Controller/Scripts/UnityCharacterController/Standard Characters/ThirdPerson/Scripts/ThirdPersonCharacterComponent.cs
+  uploadId: 830538

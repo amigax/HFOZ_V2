@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2853589c774748d4e9427823feec70e6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.4.4
+  assetPath: Packages/com.projectdawn.navigation/Samples~/Scenarios/Runtime/AgentLocomotionUnityPhysicsAuthoring.cs
+  uploadId: 820716

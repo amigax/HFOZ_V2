@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5fbcc801dea8fd640a004697d22ed448
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298480
+  packageName: Rukhanka Animation System 2
+  packageVersion: 2.6.0
+  assetPath: Packages/com.rukhanka.animation/Samples~/Samples/Scenes/25. Character
+    Controller/Scripts/UnityCharacterController/Standard Characters/ThirdPerson/Prefabs/ThirdPersonCharacter.prefab
+  uploadId: 830538
